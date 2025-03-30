@@ -51,6 +51,6 @@ Feel free to fork this repository and submit pull requests! Any contributions ar
 For any questions or suggestions, reach out at:  
 ✉️ **Email:** pk3535745@gmail.com  
 🐦 **Twitter:** [@Ayush210606](https://x.com/Ayush210606)
-🖇️ **LinkedIn:** [@ayush-bansal](www.linkedin.com/in/ayush-bansal2106)
-🔗 **GitHub:** [yourusername](https://github.com/ayushbansal2106)
+🖇️ **LinkedIn:** [@ayush-bansal](https://linkedin.com/in/ayush-bansal2106)
+🔗 **GitHub:** [ayushbansal2106](https://github.com/ayushbansal2106)
 
