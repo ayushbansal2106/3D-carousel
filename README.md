@@ -11,13 +11,13 @@ This is a **JavaScript-powered 3D Image Carousel** that displays images in a rot
 - **Background Music**: Supports autoplay with controls.
 
 ## 📷 Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green)](your-demo-link-here)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green)](https://ayushbansal2106.github.io/3D-carousel/)
 
 ## 🛠️ Installation
 ### **Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/3d-image-carousel.git
- cd 3d-image-carousel
+ git clone https://github.com/ayushbansal2106/3D-carousel.git
+ cd 3d-carousel
 ```
 
 ### **Open the Project**
@@ -49,7 +49,8 @@ Feel free to fork this repository and submit pull requests! Any contributions ar
 
 ## 📞 Contact
 For any questions or suggestions, reach out at:  
-✉️ **Email:** your-email@example.com  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-🔗 **GitHub:** [yourusername](https://github.com/yourusername)
+✉️ **Email:** pk3535745@gmail.com  
+🐦 **Twitter:** [@Ayush210606](https://x.com/Ayush210606)
+🖇️ **LinkedIn:** [@ayush-bansal](www.linkedin.com/in/ayush-bansal2106)
+🔗 **GitHub:** [yourusername](https://github.com/ayushbansal2106)
 
